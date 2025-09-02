@@ -1,2 +1,8 @@
-# programacion2025
-repositorio programacion de programcion decimo grado ITI
+clase 2 de septiembre
+
+hernandez maria
+rodriguez doris 
+
+
+
+https://makecode.microbit.org/_4z2RvpAzM18F
